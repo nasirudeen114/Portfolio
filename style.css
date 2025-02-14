@@ -97,7 +97,22 @@ nav ul a:hover{
 .hidden{
     display: none;
 }
-
+.socialMedia .linkedin:hover{
+background-color: blue;
+color: white;
+}
+.socialMedia .twitter:hover{
+    background-color: white;
+    color: blue;
+}
+.socialMedia .facebook:hover{
+    background-color: blue;
+    color: white;
+}
+.socialMedia .instagram:hover{
+    background-color: black;
+    color: palevioletred;
+}
 
 section{
     padding: 3.5em 1em;
